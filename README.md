@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @UrbanPro-11
 - 👀 I’m interested in math, software engineering, and physics
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: @urbanpro11 on Discord
-- 😄 Pronouns: He/Him only
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play a lot of Roblox Obbies
 
 <!---
